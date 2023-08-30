@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Ruben Rada",
+        "avatar": "https://loremflickr.com/640/480/technics",
+        "stock": 5,
+        "category": "Uruguaya",
+        "id": "1",
+        "price": 150
+    },
+    {
+        "name": "Seu Jorge",
+        "avatar": "https://loremflickr.com/640/480/technics",
+        "stock": 8,
+        "category": "Brasilera",
+        "id": "2",
+        "price": 200
+    },
+    {
+        "name": "No Te Va a Gustar",
+        "avatar": "https://loremflickr.com/640/480/technics",
+        "stock": 3,
+        "category": "Uruguaya",
+        "id": "3",
+        "price": 175
+    },
+    {
+        "name": "La Vela Puerca",
+        "avatar": "https://loremflickr.com/640/480/technics",
+        "stock": 2,
+        "category": "Uruguaya",
+        "id": "4",
+        "price": 250
+    },
+    {
+        "name": "DosTresCinco",
+        "avatar": "https://loremflickr.com/640/480/technics",
+        "stock": 9,
+        "category": "Uruguaya",
+        "id": "5",
+        "price": 200
+    },
+    {
+        "name": "La Tabaré",
+        "avatar": "https://loremflickr.com/640/480/technics",
+        "stock": 5,
+        "category": "Uruguaya",
+        "id": "6",
+        "price": 100
+    },
+    {
+        "name": "Once Tiros",
+        "avatar": "https://loremflickr.com/640/480/technics",
+        "stock": 6,
+        "category": "Uruguaya",
+        "id": "7",
+        "price": 110
+    },
+    {
+        "name": "Jaime Ross",
+        "avatar": "https://loremflickr.com/640/480/technics",
+        "stock": 6,
+        "category": "Uruguaya",
+        "id": "8",
+        "price": 115
+    },
+    {
+        "name": "Natiruts",
+        "avatar": "https://loremflickr.com/640/480/technics",
+        "stock": 5,
+        "category": "Brasilera",
+        "id": "9",
+        "price": 200
+    },
+    {
+        "name": "Marisa Monte",
+        "avatar": "https://loremflickr.com/640/480/technics",
+        "stock": 5,
+        "category": "Brasilera",
+        "id": "10",
+        "price": 100
+    }
+
+]

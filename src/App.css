@@ -6,3 +6,8 @@
   padding-left: 0.5rem;
   color: beige;
  }
+
+ .itemCount span  {
+    color: black;
+    padding: 1rem;
+ }
